@@ -122,7 +122,7 @@ a:hover, label:hover {
     width: 250px;
     height: 300px;
     position: absolute;
-    margin: 12px 0px 0px -110px;
+    margin: 12px 0 0 -110px;
     background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 6px;
@@ -131,7 +131,7 @@ a:hover, label:hover {
 }
 
 .subnav__inner::-webkit-scrollbar {
-    width: 0px;
+    width: 0;
 }
 
 .subnav__list {
@@ -184,6 +184,6 @@ a:hover, label:hover {
     }
 
     .subnav__inner {
-        margin: 12px 0px 0px -155px;
+        margin: 12px 0 0 -155px;
     }
 }
